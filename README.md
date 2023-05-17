@@ -35,9 +35,9 @@ npm start
 
 ## 💻 Built with
 
--   [Nodejs](https://nodejs.org/en/)
--   [Expressjs](https://expressjs.com/): for handle http method
--   [Postgres](https://www.postgresql.org/): for DBMS
+-   [Nodejs](https://nodejs.org/en/) javascript runtime
+-   [Javascript](https://javascript.info/): scripting language
+-   [Postgres](https://www.postgresql.org/): for DBMS example
 
 <hr>
 <p align="center">
