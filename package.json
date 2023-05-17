@@ -1,0 +1,20 @@
+{
+  "name": "examplejs",
+  "version": "1.0.0",
+  "description": "membahas dasar javascript",
+  "main": "app.js",
+  "module": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'test runnning'"
+  },
+  "keywords": [
+    "javasccipt",
+    "bacsic"
+  ],
+  "author": "biFebriansyah",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
